@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank iPay - Hướng Dẫn & Hỗ Trợ",
+  "description": "Ứng dụng hướng dẫn thao tác VietinBank iPay: Quên mật khẩu, Đóng thẻ, Sinh trắc học CCCD, Nộp thuế điện tử, Đặt lịch hẹn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
